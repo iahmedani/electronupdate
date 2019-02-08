@@ -1,0 +1,17 @@
+{
+  "name": "myelectronupdate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/iahmedani/electronupdate",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.3",
+    "electron-builder": "^20.38.5"
+  }
+}
